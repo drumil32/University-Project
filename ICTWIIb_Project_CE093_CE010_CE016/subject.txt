@@ -1,0 +1,23 @@
+CE
+sem-1 : maths-1  pps-1  bee-1  ES
+sem-2 : maths-2  pps-2  bee-2  ictw-1
+sem-3 : maths-3  pps-3  os     ictw-2
+sem-4 : Web      android Algorithm linux
+
+CHE
+sem-1 : maths-1 em physics-1 ES
+sem-2 : maths-2 chemistry-1 chemistry-2 physics-2
+sem-3 : fluid egd masstransfer heattransfer
+sem-4 : elective-1 elective-2 biochemical plants
+
+IT
+sem-1 : maths-1 pps-1 bee-1 ES
+sem-2 : maths-2 pps-2 bee-2 egd
+sem-3 : maths-3 android os english
+sem-4 : elective-1 linux elective-2 web
+
+ME
+sem-1 : maths-1 pps bee-1 ES
+sem-2 : maths-2 bee-2 me-1 english
+sem-3 : maths-3 me-2 egd-1 communication
+sem-4 : elective-1 me-3 egd-2 elective-2 
